@@ -653,7 +653,7 @@ task.spawn(function()
         return false
     end
     local v217 = Instance.new("ScreenGui")
-    v217.Name = "SkaiAdmSpawner"
+    v217.Name = "67Spawner"
     v217.Parent = vu54:WaitForChild("PlayerGui")
     local vu218 = Instance.new("Frame")
     vu218.Size = UDim2.new(0, 320, 0, 300)
@@ -711,7 +711,7 @@ task.spawn(function()
     local v229 = Instance.new("TextLabel")
     v229.Size = UDim2.new(1, 0, 0, 25)
     v229.BackgroundTransparency = 1
-    v229.Text = "m0_3a DC"
+    v229.Text = "67"
     v229.Font = Enum.Font.FredokaOne
     v229.TextSize = 20
     v229.TextColor3 = Color3.fromRGB(240, 240, 255)
